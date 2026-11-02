@@ -1,0 +1,1 @@
+{"name":"la-torre-de-vela","version":"7.0.0","description":"La torre de Vela online","scripts":{"start":"node server.js"},"engines":{"node":">=18"}}
